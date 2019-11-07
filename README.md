@@ -106,6 +106,10 @@ A list of resources releated to federated learning.
 
 * PySyft https://github.com/OpenMined/PySyft
 
+* Tensorflow Federated  https://www.tensorflow.org/federated
+
+
+
 ## Use-cases
 
 MIT CSAIL/Harvard Medical/清華
