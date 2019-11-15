@@ -53,6 +53,8 @@ A list of resources releated to federated learning.
 
 * Privacy-Preserving Collaborative Deep Learning with Unreliable Participants https://arxiv.org/abs/1812.10113
 
+* Scalable Private Learning with PATE https://arxiv.org/abs/1802.08908
+
 
 ### System and Application
 
