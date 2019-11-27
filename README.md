@@ -153,12 +153,12 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ## Use-cases
 
-MIT CSAIL/Harvard Medical/清華
+MIT CSAIL/Harvard Medical/Tsinghua University’s Academy of Arts and Design
 
 * https://arxiv.org/ftp/arxiv/papers/1903/1903.09296.pdf
 * https://venturebeat.com/2019/03/25/federated-learning-technique-predicts-hospital-stay-and-patient-mortality/
 
-Microsoft research/北京
+Microsoft research/University of Chinese Academy of Sciences, Beijing, China
 
 * https://arxiv.org/pdf/1907.09173.pdf
 
