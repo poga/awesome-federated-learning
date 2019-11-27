@@ -1,6 +1,6 @@
 # Awesome Federated Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list of resources releated to federated learning.
+A list of resources releated to federated learning and privacy in machine learning.
 
 ## Papers
 
@@ -22,6 +22,8 @@ A list of resources releated to federated learning.
 
 
 ### Privacy and Security
+
+* Communication-Efficient Learning of Deep Networks from Decentralized Data https://arxiv.org/pdf/1602.05629.pdf
 
 * Practical Secure Aggregation for Federated Learning on User-Held Data https://arxiv.org/abs/1611.04482
 
@@ -58,6 +60,10 @@ A list of resources releated to federated learning.
 
 ### System and Application
 
+* A generic framework for privacy preserving deep learning https://arxiv.org/pdf/1811.04017.pdf
+
+* Federated Learning of N-gram Language Models https://arxiv.org/pdf/1910.03432.pdf
+
 * Towards Federated Learning at Scale: System Design https://arxiv.org/pdf/1902.01046.pdf
 
 * Federated Learning for Keyword Spotting https://arxiv.org/abs/1810.05512
@@ -76,12 +82,6 @@ A list of resources releated to federated learning.
 
 
 ### Un-org
-
-* Communication-Efficient Learning of Deep Networks from Decentralized Data https://arxiv.org/pdf/1602.05629.pdf
-
-* A generic framework for privacy preserving deep learning https://arxiv.org/pdf/1811.04017.pdf
-
-* Federated Learning of N-gram Language Models https://arxiv.org/pdf/1910.03432.pdf
 
 * Split Learning: Distributed and collaborative learning https://aiforsocialgood.github.io/iclr2019/accepted/track1/pdfs/31_aisg_iclr2019.pdf
 
