@@ -57,6 +57,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * Scalable Private Learning with PATE https://arxiv.org/abs/1802.08908
 
+* Reducing leakage in distributed deep learning for sensitive health data https://www.media.mit.edu/publications/reducing-leakage-in-distributed-deep-learning-for-sensitive-health-data-accepted-to-iclr-2019-workshop-on-ai-for-social-good-2019/
+
 
 ### System and Application
 
@@ -80,8 +82,14 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * Multi-Institutional Deep Learning Modeling Without Sharing Patient Data: A Feasibility Study on Brain Tumor Segmentation https://arxiv.org/abs/1810.04304
 
+* Split learning for health: Distributed deep learning without sharing raw patient data https://www.media.mit.edu/publications/split-learning-for-health-distributed-deep-learning-without-sharing-raw-patient-data/
+
 
 ### Un-org
+
+* ExpertMatcher: Automating ML Model Selection for Users in Resource Constrained Countries https://www.media.mit.edu/publications/ExpertMatcher/
+
+* Detailed comparison of communication efficiency of split learning and federated learning https://www.media.mit.edu/publications/detailed-comparison-of-communication-efficiency-of-split-learning-and-federated-learning-1/
 
 * Split Learning: Distributed and collaborative learning https://aiforsocialgood.github.io/iclr2019/accepted/track1/pdfs/31_aisg_iclr2019.pdf
 
