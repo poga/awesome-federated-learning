@@ -157,6 +157,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * Tensorflow Federated  https://www.tensorflow.org/federated
 
+* CrypTen https://github.com/facebookresearch/CrypTen
+
 
 
 ## Use-cases
