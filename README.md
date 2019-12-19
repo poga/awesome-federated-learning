@@ -187,7 +187,7 @@ Tencent WeBank
 Nvidia/King’s College London, American College of Radiology, MGH and BWH Center for Clinical Data Science, and UCLA Health... etc
 
 * https://venturebeat.com/2019/10/13/nvidia-uses-federated-learning-to-create-medical-imaging-ai/
-* https://blogs.nvidia.com/blog/2019/12/01/clara-federated-learning/?nvid=nv-int-cwmfg-38753
+* https://blogs.nvidia.com/blog/2019/12/01/clara-federated-learning/
 
 
 
