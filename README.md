@@ -59,6 +59,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * Reducing leakage in distributed deep learning for sensitive health data https://www.media.mit.edu/publications/reducing-leakage-in-distributed-deep-learning-for-sensitive-health-data-accepted-to-iclr-2019-workshop-on-ai-for-social-good-2019/
 
+* Deep Leakage from Gradients http://papers.nips.cc/paper/9617-deep-leakage-from-gradients.pdf
+
 
 ### System and Application
 
