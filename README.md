@@ -2,6 +2,10 @@
 
 A list of resources releated to federated learning and privacy in machine learning.
 
+## Related Awesome Lists
+
+* [tushar-semwal/awesome-federated-computing](https://github.com/tushar-semwal/awesome-federated-computing)
+
 ## Papers
 
 ### Introduction & Survey
