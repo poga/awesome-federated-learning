@@ -90,6 +90,11 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * Split learning for health: Distributed deep learning without sharing raw patient data https://www.media.mit.edu/publications/split-learning-for-health-distributed-deep-learning-without-sharing-raw-patient-data/
 
+* Continuous Delivery for Machine Learning https://martinfowler.com/articles/cd4ml.html#EvolvingIntelligentSystemsWithoutBias
+
+* Ease.ml/ci & Ease.ml/meter Towards Data Management for Statistical Generialization http://ease.ml/
+
+
 
 ### Un-org
 
