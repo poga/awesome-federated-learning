@@ -206,7 +206,9 @@ Nvidia/King’s College London, American College of Radiology, MGH and BWH Cente
 
 ## Company
 
-* Snips https://snips.ai/
+* Snips
+    * https://snips.ai/
+    * https://www.theverge.com/2019/11/21/20975607/sonos-buys-snips-ai-voice-assistant-privacy
 
 * Privacy.ai https://privacy.ai/
 
