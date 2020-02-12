@@ -98,6 +98,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### Un-org
 
+* Privacy-preserving Federated Brain Tumour Segmentation. https://arxiv.org/pdf/1910.00962.pdf
+
 * ExpertMatcher: Automating ML Model Selection for Users in Resource Constrained Countries https://www.media.mit.edu/publications/ExpertMatcher/
 
 * Detailed comparison of communication efficiency of split learning and federated learning https://www.media.mit.edu/publications/detailed-comparison-of-communication-efficiency-of-split-learning-and-federated-learning-1/
