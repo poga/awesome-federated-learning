@@ -192,6 +192,7 @@ Boston University/Massachusetts General Hospital
 Google
 
 * https://ai.googleblog.com/2017/04/federated-learning-collaborative.html
+* https://www.statnews.com/2019/09/10/google-mayo-clinic-partnership-patient-data/
 
 Tencent WeBank
 
@@ -220,3 +221,4 @@ Nvidia/King’s College London, American College of Radiology, MGH and BWH Cente
 
 * Scaleout https://scaleoutsystems.com/
 
+* MELLODDY https://www.melloddy.eu/
