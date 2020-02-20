@@ -94,6 +94,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * Ease.ml/ci & Ease.ml/meter Towards Data Management for Statistical Generialization http://ease.ml/
 
+* VisionAir: Using Federated Learning to estimate Air Quality using the Tensorflow API for Java https://blog.tensorflow.org/2020/02/visionair-using-federated-learning-to-estimate-airquality-tensorflow-api-java.html
+
 
 
 ### Un-org
