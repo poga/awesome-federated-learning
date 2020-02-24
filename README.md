@@ -164,6 +164,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * Federated Learning: Challenges, Methods, and Future Directions https://arxiv.org/pdf/1908.07873.pdf
 
+* Advances and Open Problems in Federated Learning https://arxiv.org/pdf/1912.04977.pdf
+
 
 
 ## Code
@@ -173,6 +175,8 @@ A list of resources releated to federated learning and privacy in machine learni
 * Tensorflow Federated  https://www.tensorflow.org/federated
 
 * CrypTen https://github.com/facebookresearch/CrypTen
+
+* FATE https://fate.fedai.org/
 
 
 
