@@ -166,6 +166,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * Advances and Open Problems in Federated Learning https://arxiv.org/pdf/1912.04977.pdf
 
+* Federated Learning with Matched Averaging https://openreview.net/forum?id=BkluqlSFDS
+
 
 
 ## Code
