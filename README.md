@@ -102,6 +102,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### Un-org
 
+* On the Convergence of FedAvg on Non-IID Data https://arxiv.org/abs/1907.02189
+
 * Privacy-preserving Federated Brain Tumour Segmentation. https://arxiv.org/pdf/1910.00962.pdf
 
 * ExpertMatcher: Automating ML Model Selection for Users in Resource Constrained Countries https://www.media.mit.edu/publications/ExpertMatcher/
