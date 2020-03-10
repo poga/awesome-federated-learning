@@ -10,6 +10,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### Introduction & Survey
 
+* Advances and Open Problems in Federated Learning https://arxiv.org/pdf/1912.04977.pdf
+
 * Federated Machine Learning: Concept and Applications https://arxiv.org/pdf/1902.04885
 
 * Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection https://arxiv.org/abs/1907.09693
@@ -164,7 +166,6 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * Federated Learning: Challenges, Methods, and Future Directions https://arxiv.org/pdf/1908.07873.pdf
 
-* Advances and Open Problems in Federated Learning https://arxiv.org/pdf/1912.04977.pdf
 
 * Federated Learning with Matched Averaging https://openreview.net/forum?id=BkluqlSFDS
 
