@@ -185,6 +185,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * FATE https://fate.fedai.org/
 
+* DVC https://dvc.org/
+
 
 
 ## Use-cases
