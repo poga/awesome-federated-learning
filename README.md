@@ -104,6 +104,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### Un-org
 
+* LEAF: A Benchmark for Federated Settings https://arxiv.org/abs/1812.01097
+
 * On the Convergence of FedAvg on Non-IID Data https://arxiv.org/abs/1907.02189
 
 * Privacy-preserving Federated Brain Tumour Segmentation. https://arxiv.org/pdf/1910.00962.pdf
@@ -186,6 +188,8 @@ A list of resources releated to federated learning and privacy in machine learni
 * FATE https://fate.fedai.org/
 
 * DVC https://dvc.org/
+
+* LEAF https://leaf.cmu.edu/
 
 
 
