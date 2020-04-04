@@ -71,11 +71,12 @@ A list of resources releated to federated learning and privacy in machine learni
 
 
 ### System and Application
+
 * Learning Private Neural Language Modeling with Attentive Aggregation https://arxiv.org/pdf/1812.07108
 
 * Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning https://arxiv.org/abs/2003.09603
 
-* Decentralized Knowledge Acquisition for Mobile Internet Applications https://link.springer.com/article/10.1007/s11280-019-00775-w 
+* Decentralized Knowledge Acquisition for Mobile Internet Applications https://link.springer.com/article/10.1007/s11280-019-00775-w
 
 * A generic framework for privacy preserving deep learning https://arxiv.org/pdf/1811.04017.pdf
 
@@ -108,6 +109,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 
 ### Un-org
+
+* Federated Optimization in Heterogenous Networks https://research.fb.com/publications/federated-optimization-in-heterogenous-networks/
 
 * LEAF: A Benchmark for Federated Settings https://arxiv.org/abs/1812.01097
 
