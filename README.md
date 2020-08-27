@@ -110,6 +110,10 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### Un-org
 
+* Federated Visual Classification with Real-World Data Distribution https://arxiv.org/abs/2003.08082
+
+* Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification https://arxiv.org/abs/1909.06335
+
 * Federated Optimization in Heterogenous Networks https://research.fb.com/publications/federated-optimization-in-heterogenous-networks/
 
 * LEAF: A Benchmark for Federated Settings https://arxiv.org/abs/1812.01097
@@ -199,6 +203,7 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * LEAF https://leaf.cmu.edu/
 
+* Federated iNaturalist/Landmarkds https://github.com/google-research/google-research/tree/master/federated_vision_datasets
 
 
 ## Use-cases
