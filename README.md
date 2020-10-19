@@ -106,6 +106,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * VisionAir: Using Federated Learning to estimate Air Quality using the Tensorflow API for Java https://blog.tensorflow.org/2020/02/visionair-using-federated-learning-to-estimate-airquality-tensorflow-api-java.html
 
+* Federated Optimization in Heterogeneous Networks https://arxiv.org/abs/1812.06127
+
 
 
 ### Un-org
@@ -113,8 +115,6 @@ A list of resources releated to federated learning and privacy in machine learni
 * Federated Visual Classification with Real-World Data Distribution https://arxiv.org/abs/2003.08082
 
 * Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification https://arxiv.org/abs/1909.06335
-
-* Federated Optimization in Heterogenous Networks https://research.fb.com/publications/federated-optimization-in-heterogenous-networks/
 
 * LEAF: A Benchmark for Federated Settings https://arxiv.org/abs/1812.01097
 
@@ -151,8 +151,6 @@ A list of resources releated to federated learning and privacy in machine learni
 * Broadband Analog Aggregation for Low-Latency Federated Edge Learning (Extended Version) https://arxiv.org/pdf/1812.11494
 
 * Multi-objective Evolutionary Federated Learning https://arxiv.org/pdf/1812.07478
-
-* Federated Optimization for Heterogeneous Networks https://arxiv.org/pdf/1812.06127
 
 * Efficient Training Management for Mobile Crowd-Machine Learning: A Deep Reinforcement Learning Approach https://arxiv.org/pdf/1812.03633
 
@@ -204,6 +202,8 @@ A list of resources releated to federated learning and privacy in machine learni
 * LEAF https://leaf.cmu.edu/
 
 * Federated iNaturalist/Landmarkds https://github.com/google-research/google-research/tree/master/federated_vision_datasets
+
+* FedML: A Research Library and Benchmark for Federated Machine Learning https://github.com/FedML-AI/FedML
 
 
 ## Use-cases
