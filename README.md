@@ -72,6 +72,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### System and Application
 
+* Flower: A Friendly Federated Learning Framework https://arxiv.org/pdf/2007.14390.pdf
+
 * Learning Private Neural Language Modeling with Attentive Aggregation https://arxiv.org/pdf/1812.07108
 
 * Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning https://arxiv.org/abs/2003.09603
@@ -189,6 +191,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ## Code
 
+* Flower https://flower.dev/
+
 * PySyft https://github.com/OpenMined/PySyft
 
 * Tensorflow Federated  https://www.tensorflow.org/federated
@@ -240,6 +244,8 @@ Nvidia/King’s College London, American College of Radiology, MGH and BWH Cente
 
 
 ## Company
+
+* Adap https://adap.com/en
 
 * Snips
     * https://snips.ai/
