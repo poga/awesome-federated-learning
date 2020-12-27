@@ -209,6 +209,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * FedML: A Research Library and Benchmark for Federated Machine Learning https://github.com/FedML-AI/FedML
 
+* XayNet: Open source framework for federated learning in Rust https://xaynet.webflow.io/ 
+
 
 ## Use-cases
 
@@ -262,3 +264,5 @@ Nvidia/King’s College London, American College of Radiology, MGH and BWH Cente
 * MELLODDY https://www.melloddy.eu/
 
 * DataFleets https://www.datafleets.com/
+
+* Xayn AG https://www.xayn.com/
