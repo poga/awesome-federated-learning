@@ -29,6 +29,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### Privacy and Security
 
+* Towards Causal Federated Learning for Enhanced Robustness and Privacy https://arxiv.org/pdf/2104.06557.pdf
+
 * Communication-Efficient Learning of Deep Networks from Decentralized Data https://arxiv.org/pdf/1602.05629.pdf
 
 * Practical Secure Aggregation for Federated Learning on User-Held Data https://arxiv.org/abs/1611.04482
@@ -71,6 +73,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 
 ### System and Application
+
+* Record and Reward Federated Learning Contributions with Blockchain https://mblocklab.com/RecordandReward.pdf
 
 * Flower: A Friendly Federated Learning Framework https://arxiv.org/pdf/2007.14390.pdf
 
