@@ -118,6 +118,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### Un-org
 
+* A Scalable Approach for Partially Local Federated Learning https://ai.googleblog.com/2021/12/a-scalable-approach-for-partially-local.html?m=1
+
 * Federated Visual Classification with Real-World Data Distribution https://arxiv.org/abs/2003.08082
 
 * Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification https://arxiv.org/abs/1909.06335
@@ -187,7 +189,6 @@ A list of resources releated to federated learning and privacy in machine learni
 * Federated Learning for Time Series Forecasting Using Hybrid Model http://www.diva-portal.se/smash/get/diva2:1334629/FULLTEXT01.pdf
 
 * Federated Learning: Challenges, Methods, and Future Directions https://arxiv.org/pdf/1908.07873.pdf
-
 
 * Federated Learning with Matched Averaging https://openreview.net/forum?id=BkluqlSFDS
 
