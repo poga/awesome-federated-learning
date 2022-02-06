@@ -31,7 +31,13 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * Applying Differential Privacy to Large Scale Image Classification https://ai.googleblog.com/2022/02/applying-differential-privacy-to-large.html
 
-* Towards Causal Federated Learning for Enhanced Robustness and Privacy https://arxiv.org/pdf/2104.06557.pdf
+* Towards Causal Federated Learning For Enhanced Robustness And Privacy https://arxiv.org/pdf/2104.06557.pdf ICLR DPML 2021
+
+* FedAUX: Leveraging Unlabeled Auxiliary Data in Federated Learning https://arxiv.org/abs/2102.02514
+
+* OpenFL: An open-source framework for Federated Learning https://arxiv.org/abs/2105.06413
+
+* A Bayesian Federated Learning Framework with Multivariate Gaussian Product https://arxiv.org/abs/2102.01936
 
 * Communication-Efficient Learning of Deep Networks from Decentralized Data https://arxiv.org/pdf/1602.05629.pdf
 
@@ -119,6 +125,10 @@ A list of resources releated to federated learning and privacy in machine learni
 
 
 ### Un-org
+
+* FedProf: Optimizing Federated Learning with Dynamic Data Profiling https://arxiv.org/abs/2102.01733
+
+* FedBN: Federated Learning on Non-IID Features via Local Batch Normalization https://arxiv.org/abs/2102.07623
 
 * A Scalable Approach for Partially Local Federated Learning https://ai.googleblog.com/2021/12/a-scalable-approach-for-partially-local.html?m=1
 
@@ -218,7 +228,7 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * FedML: A Research Library and Benchmark for Federated Machine Learning https://github.com/FedML-AI/FedML
 
-* XayNet: Open source framework for federated learning in Rust https://xaynet.webflow.io/ 
+* XayNet: Open source framework for federated learning in Rust https://xaynet.webflow.io/
 
 
 ## Use-cases
