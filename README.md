@@ -29,6 +29,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### Privacy and Security
 
+* Applying Differential Privacy to Large Scale Image Classification https://ai.googleblog.com/2022/02/applying-differential-privacy-to-large.html
+
 * Towards Causal Federated Learning for Enhanced Robustness and Privacy https://arxiv.org/pdf/2104.06557.pdf
 
 * Communication-Efficient Learning of Deep Networks from Decentralized Data https://arxiv.org/pdf/1602.05629.pdf
