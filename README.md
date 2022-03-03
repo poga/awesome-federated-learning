@@ -82,6 +82,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### System and Application
 
+* PowerFlow: A SaaS platform for Federated Learning https://integrate.ai/powerflow/
+
 * Record and Reward Federated Learning Contributions with Blockchain https://mblocklab.com/RecordandReward.pdf
 
 * Flower: A Friendly Federated Learning Framework https://arxiv.org/pdf/2007.14390.pdf
@@ -265,6 +267,8 @@ Nvidia/King’s College London, American College of Radiology, MGH and BWH Cente
 
 
 ## Company
+
+* integrate.ai https://integrate.ai
 
 * Adap https://adap.com/en
 
