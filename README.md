@@ -29,6 +29,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### Privacy and Security
 
+* Federated Learning with Formal Differential Privacy Guarantees https://ai.googleblog.com/2022/02/federated-learning-with-formal.html
+
 * Applying Differential Privacy to Large Scale Image Classification https://ai.googleblog.com/2022/02/applying-differential-privacy-to-large.html
 
 * Towards Causal Federated Learning For Enhanced Robustness And Privacy https://arxiv.org/pdf/2104.06557.pdf ICLR DPML 2021
@@ -81,8 +83,6 @@ A list of resources releated to federated learning and privacy in machine learni
 
 
 ### System and Application
-
-* PowerFlow: A SaaS platform for Federated Learning https://integrate.ai/powerflow/
 
 * Record and Reward Federated Learning Contributions with Blockchain https://mblocklab.com/RecordandReward.pdf
 
@@ -268,7 +268,9 @@ Nvidia/King’s College London, American College of Radiology, MGH and BWH Cente
 
 ## Company
 
+
 * integrate.ai https://integrate.ai
+    * PowerFlow: A SaaS platform for Federated Learning https://integrate.ai/powerflow/
 
 * Adap https://adap.com/en
 
