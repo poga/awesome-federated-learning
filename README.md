@@ -10,6 +10,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### Introduction & Survey
 
+* The Internet of Federated Things (IoFT) https://ieeexplore.ieee.org/document/9611259
+
 * Advances and Open Problems in Federated Learning https://arxiv.org/pdf/1912.04977.pdf
 
 * Federated Machine Learning: Concept and Applications https://arxiv.org/pdf/1902.04885
@@ -25,7 +27,6 @@ A list of resources releated to federated learning and privacy in machine learni
 * No Peek: A Survey of private distributed deep learning https://arxiv.org/pdf/1812.03288
 
 * Federated Learning in Mobile Edge Networks: A Comprehensive Survey https://arxiv.org/abs/1909.11875
-
 
 ### Privacy and Security
 
