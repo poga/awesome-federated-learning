@@ -232,6 +232,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * XayNet: Open source framework for federated learning in Rust https://xaynet.webflow.io/
 
+* EnvisEdge: https://github.com/NimbleEdge/EnvisEdge
+
 
 ## Use-cases
 
@@ -291,3 +293,5 @@ Nvidia/King’s College London, American College of Radiology, MGH and BWH Cente
 * DataFleets https://www.datafleets.com/
 
 * Xayn AG https://www.xayn.com/
+
+* NimbleEdge https://www.nimbleedge.ai/
