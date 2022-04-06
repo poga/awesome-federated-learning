@@ -273,7 +273,7 @@ Nvidia/King’s College London, American College of Radiology, MGH and BWH Cente
 
 
 * integrate.ai https://integrate.ai
-    * PowerFlow: A SaaS platform for Federated Learning https://integrate.ai/powerflow/
+    * IntegrateFL: A SaaS platform for Federated Learning https://integrate.ai/integratefl/
 
 * Adap https://adap.com/en
 
