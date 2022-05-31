@@ -10,6 +10,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### Introduction & Survey
 
+* Towards Efficient Synchronous Federated Training: A Survey on System Optimization Strategies https://arxiv.org/abs/2109.03999
+
 * The Internet of Federated Things (IoFT) https://ieeexplore.ieee.org/document/9611259
 
 * Advances and Open Problems in Federated Learning https://arxiv.org/pdf/1912.04977.pdf
