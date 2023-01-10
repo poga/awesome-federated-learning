@@ -87,6 +87,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### System and Application
 
+* Pisces: Efficient Federated Learning via Guided Asynchronous Training https://dl.acm.org/doi/abs/10.1145/3542929.3563463
+
 * Record and Reward Federated Learning Contributions with Blockchain https://mblocklab.com/RecordandReward.pdf
 
 * Flower: A Friendly Federated Learning Framework https://arxiv.org/pdf/2007.14390.pdf
