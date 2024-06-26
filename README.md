@@ -217,7 +217,7 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * OpenFL: An open-source framework for Federated Learning - https://github.com/intel/openfl
 
-* Flower https://flower.dev/
+* Flower https://flower.ai/
 
 * PySyft https://github.com/OpenMined/PySyft
 
