@@ -32,6 +32,9 @@ A list of resources releated to federated learning and privacy in machine learni
 
 ### Privacy and Security
 
+* Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off
+ https://arxiv.org/abs/2402.07002 | https://github.com/6lyc/FedCEO_Collaborate-with-Each-Other
+
 * Federated Learning with Formal Differential Privacy Guarantees https://ai.googleblog.com/2022/02/federated-learning-with-formal.html
 
 * Applying Differential Privacy to Large Scale Image Classification https://ai.googleblog.com/2022/02/applying-differential-privacy-to-large.html
