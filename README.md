@@ -298,5 +298,6 @@ Nvidia/King’s College London, American College of Radiology, MGH and BWH Cente
 * DataFleets https://www.datafleets.com/
 
 * Xayn AG https://www.xayn.com/
+- [crdt-merge](https://github.com/mgillr/crdt-merge) - Conflict-free merge for DataFrames, JSON, ML models & distributed agents — powered by CRDTs.
 
 * NimbleEdge https://www.nimbleedge.ai/
