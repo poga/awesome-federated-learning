@@ -239,6 +239,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * EnvisEdge: https://github.com/NimbleEdge/EnvisEdge
 
+* [TWZRD Agent Intel](https://intel.twzrd.xyz): Privacy-preserving trust scoring for federated AI agents. Verify agent identity without exposing sensitive data — zero-knowledge compatible agent trust layer for private federated learning deployments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 
 ## Use-cases
 
