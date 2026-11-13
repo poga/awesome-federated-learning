@@ -239,6 +239,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * EnvisEdge: https://github.com/NimbleEdge/EnvisEdge
 
+* FRACTAL: Edge federated learning and model slicing framework (non-commercial source-available) - https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace
+
 
 ## Use-cases
 
