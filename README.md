@@ -83,6 +83,7 @@ A list of resources releated to federated learning and privacy in machine learni
 * Deep Leakage from Gradients http://papers.nips.cc/paper/9617-deep-leakage-from-gradients.pdf
 
 * Gradient-Leaks: Understanding and Controlling Deanonymization in Federated Learning https://arxiv.org/abs/1805.05838
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
 
 
 ### System and Application
